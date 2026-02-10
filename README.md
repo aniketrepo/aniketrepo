@@ -35,8 +35,8 @@
 > More projects coming soon
 
 ## Connect With Me
-- GitHub: https://github.com/aniketrepo  
-- LinkedIn: https://www.linkedin.com/in/aniket-dixit-6b513225a/  
+- [GitHub](https://github.com/aniketrepo)  
+- [LinkedIn](https://www.linkedin.com/in/aniket-dixit-6b513225a/)  
 
 
 *If you like my work, consider starring a repo!*
