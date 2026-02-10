@@ -34,7 +34,7 @@
 > More projects coming soon
 
 ## Connect With Me
-- [GitHub](https://github.com/aniketrepo)  
+- [GitHub](https://github.com/anixtm3)  
 - [LinkedIn](https://www.linkedin.com/in/aniket-dixit-6b513225a/)  
 
 
