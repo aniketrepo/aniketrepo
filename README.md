@@ -28,7 +28,7 @@
 - VS Code  
 
 ## Projects
-🔹 **Facial Recognition System** – A real-time facial emotion recognition system built using deep learning and computer vision. The system detects human faces from live video input and classifies facial expressions into multiple emotion categories using a CNN-based model. 
+🔹 **Facial Recognition System** – A real-time facial emotion recognition system that uses deep learning and computer vision to detect faces from live video and classify facial expressions using a CNN.
 
 🔹 **Face-Based Location Prediction System** – A real-time face recognition system that maps detected identities to predefined location data using computer vision and machine learning.   
 
