@@ -2,7 +2,7 @@
 
 ---
 
-# Hi, I'm Aniket 👋
+# Hi, I'm Aniket
 
 - B.Tech Data Science student (Class of 2028)  
 - Interested in Data Science, Machine Learning & Systems  
