@@ -30,7 +30,7 @@
 ## Featured Projects
 
 **Facial Emotion Recognition System**  
-- Real-time facial emotion recognition system.  
+- Facial emotion recognition system.  
 - Tech: Python, OpenCV, CNN  
 - https://github.com/anixtm3/facial-recognition-system
 
