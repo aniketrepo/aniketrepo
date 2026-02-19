@@ -16,8 +16,6 @@
 
 ## Tech Stack
 **Languages:**  
-- C  
-- Java  
 - Python  
 - SQL  
 
