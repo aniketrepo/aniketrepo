@@ -2,46 +2,86 @@
 
 ---
 
-# Hi, I'm Aniket
+# Aniket Dixit
 
-- B.Tech Data Science student (Class of 2028)  
-- Interested in Data Science, Machine Learning & Systems  
-- Currently learning: C, Java, Python, SQL  
-- India
+BTech Data Science (2024–2028)  
+Engineering disciplined systems and behavioral tooling.
+
+---
 
 ## About Me
-- Engineering student who likes breaking things to understand how they work  
-- Curious about data, algorithms, and real-world problem solving  
-- Prefer clean code, simple logic, and practical projects  
 
-## Tech Stack
-**Languages:**  
-- Python  
-- SQL  
+I am interested in building systems that shape human behavior through technology.
 
-**Tools & Tech:**  
-- Git & GitHub  
-- MySQL  
-- Linux  
-- VS Code  
+My work focuses on:
 
-## Featured Projects
+- Environment-controlled productivity systems  
+- Behavioral monitoring tools  
+- Applied computer vision  
+- Human–technology interaction  
+- Systems thinking for academic performance  
 
-**Facial Emotion Recognition System**  
-- Facial emotion recognition system.  
-- Tech: Python, OpenCV, CNN  
-- https://github.com/anixtm3/facial-recognition-system
+I believe discipline should be engineered, not negotiated.
 
-**Face-Based Location Prediction System**  
-- Face recognition system that links identities to location data.  
-- Tech: Python, OpenCV, Machine Learning  
-- https://github.com/anixtm3/face-based-location-prediction-system
+---
 
-> More projects coming soon
+## Current Project
 
-## Connect With Me
-- [GitHub](https://github.com/anixtm3)  
-- [LinkedIn](https://www.linkedin.com/in/aniket-dixit-6b513225a/)  
+### Acadence
 
+An OS-level deep work enforcement system for Linux.
 
-*If you like my work, consider starring a repo!*
+Core components:
+- Mode-based execution environments
+- Distraction blocking via watchdog processes
+- OpenCV-based face monitoring
+- SQLite session analytics
+- Forced exit pipeline for behavioral integrity
+
+Acadence is an experiment in environmental discipline engineering.
+
+---
+
+## Technical Stack
+
+Languages:
+- Python
+- Bash
+- C (learning systems-level concepts)
+- SQL
+
+Tools & Systems:
+- Linux (GNOME)
+- OpenCV
+- SQLite
+- Git
+- Virtual environments
+- Process control (pkill, watchdog patterns)
+
+Interests:
+- Behavioral systems design
+- Cognitive performance tracking
+- System architecture
+- Minimalist software design
+
+---
+
+## Selected Work
+
+- Facial Emotion Recognition System
+- Face-Based Location Prediction System
+- Acadence (Behavioral OS Layer)
+
+---
+
+## Philosophy
+
+Systems > Motivation  
+Environment > Willpower  
+Consistency > Intensity  
+
+---
+
+## Contact
+
+Open to collaboration on systems design, behavioral tech, and productivity engineering.
