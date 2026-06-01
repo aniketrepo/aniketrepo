@@ -1,87 +1,87 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
----
+<div align="center">
 
 # Aniket Dixit
 
-BTech Data Science (2024–2028)  
-Engineering disciplined systems and behavioral tooling.
+### BTech Data Science • Systems Builder • Behavioral Tech
+
+Building systems that reduce friction, enforce focus, and engineer consistency.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=700&lines=Environment+%3E+Willpower;Systems+%3E+Motivation;Consistency+%3E+Intensity" />
+
+</div>
 
 ---
 
-## About Me
+## About
 
-I am interested in building systems that shape human behavior through technology.
+I build productivity and behavioral systems designed to shape human action through environment design.
 
-My work focuses on:
+My interests include:
 
-- Environment-controlled productivity systems  
-- Behavioral monitoring tools  
-- Applied computer vision  
-- Human–technology interaction  
-- Systems thinking for academic performance  
-
-I believe discipline should be engineered, not negotiated.
+- Behavioral engineering
+- Human–technology interaction
+- Deep work systems
+- Computer vision
+- System automation
+- Cognitive performance tooling
 
 ---
 
-## Current Project
+## Current Focus
 
 ### Acadence
 
-An OS-level deep work enforcement system for Linux.
+A Linux-based behavioral operating layer for deep work and academic discipline.
 
-Core components:
-- Mode-based execution environments
-- Distraction blocking via watchdog processes
-- OpenCV-based face monitoring
-- SQLite session analytics
-- Forced exit pipeline for behavioral integrity
-
-Acadence is an experiment in environmental discipline engineering.
-
----
-
-## Technical Stack
-
-Languages:
-- Python
-- Bash
-- C (learning systems-level concepts)
-- SQL
-
-Tools & Systems:
-- Linux (GNOME)
-- OpenCV
-- SQLite
-- Git
-- Virtual environments
-- Process control (pkill, watchdog patterns)
-
-Interests:
-- Behavioral systems design
-- Cognitive performance tracking
-- System architecture
-- Minimalist software design
+**Core Features**
+- Mode-based workflow environments
+- Watchdog-driven distraction blocking
+- OpenCV face monitoring
+- Session analytics with SQLite
+- Forced-exit behavioral enforcement
+- OS-level focus automation
 
 ---
 
-## Selected Work
+## Stack
 
-- Facial Emotion Recognition System
-- Face-Based Location Prediction System
-- Acadence (Behavioral OS Layer)
+### Languages
+`Python` `Bash` `C` `SQL`
+
+### Tools & Systems
+`Linux` `Git` `SQLite` `OpenCV` `FastAPI` `Electron`
+
+### Areas of Interest
+`Behavioral Systems` `Productivity Engineering`
+`System Architecture` `Minimal Software Design`
+
+---
+
+## Selected Projects
+
+- **Acadence** — Behavioral productivity OS layer
+- **CARD-X** — Smart student tracking & monitoring system
+- **Facial Emotion Recognition**
+- **Face-Based Location Prediction**
 
 ---
 
 ## Philosophy
 
-Systems > Motivation  
-Environment > Willpower  
-Consistency > Intensity  
+```txt
+Systems shape behavior.
+Environment shapes systems.
+Consistency compounds everything.
+````
 
 ---
 
-## Contact
+<div align="center">
 
-Open to collaboration on systems design, behavioral tech, and productivity engineering.
+### Open to collaborations in behavioral tech, systems design, and productivity tooling.
+
+</div>
