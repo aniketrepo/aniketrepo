@@ -1,7 +1,7 @@
 <div align="center">
   
   # Aniket Dixit
-  **B.Tech Data Science Student** • **Python Developer** • **AI Enthusiast**
+  B.Tech Data Science Student • Python Developer • AI Enthusiast
   
 </div>
 
